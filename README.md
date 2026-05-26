@@ -1,2 +1,2 @@
 # MetaSynergy
-Few-shot drug synergy prediction via rapid cross-tier adaptation meta-optimization
+基于元学习的小样本药物协同预测
